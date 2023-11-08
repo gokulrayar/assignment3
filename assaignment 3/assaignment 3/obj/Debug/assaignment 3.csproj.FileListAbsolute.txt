@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\assaignment 3\assaignment 3\bin\Debug\assaignment 3.exe.config
+C:\Users\rayar\source\repos\assaignment 3\assaignment 3\bin\Debug\assaignment 3.exe
+C:\Users\rayar\source\repos\assaignment 3\assaignment 3\bin\Debug\assaignment 3.pdb
+C:\Users\rayar\source\repos\assaignment 3\assaignment 3\obj\Debug\assaignment 3.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\assaignment 3\assaignment 3\obj\Debug\assaignment 3.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\assaignment 3\assaignment 3\obj\Debug\assaignment 3.exe
+C:\Users\rayar\source\repos\assaignment 3\assaignment 3\obj\Debug\assaignment 3.pdb

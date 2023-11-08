@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\assignment 3 p2\assignment 3 p2\bin\Debug\assignment 3 p2.exe.config
+C:\Users\rayar\source\repos\assignment 3 p2\assignment 3 p2\bin\Debug\assignment 3 p2.exe
+C:\Users\rayar\source\repos\assignment 3 p2\assignment 3 p2\bin\Debug\assignment 3 p2.pdb
+C:\Users\rayar\source\repos\assignment 3 p2\assignment 3 p2\obj\Debug\assignment 3 p2.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\assignment 3 p2\assignment 3 p2\obj\Debug\assignment 3 p2.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\assignment 3 p2\assignment 3 p2\obj\Debug\assignment 3 p2.exe
+C:\Users\rayar\source\repos\assignment 3 p2\assignment 3 p2\obj\Debug\assignment 3 p2.pdb
